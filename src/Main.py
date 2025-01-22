@@ -1,7 +1,10 @@
 from PIL import Image
 # Rearranges a very particular type of scrambled page
 # Original image
-image = Image.open('puzzle.jpg')
+
+name = 'samplePage2'
+
+image = Image.open(name + '.jpg')
 
 # records and edits the width and height of the original image
 width = image.width
@@ -36,5 +39,5 @@ for y in range(4):
         solved_image.paste(image_list[y + (x * 4)], position)
 
 # Saves the edited image
-solved_image.save('solved_puzzle.jpg')
+solved_image.save(name + 'Solved.jpg')
 solved_image.show()
