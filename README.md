@@ -1,2 +1,2 @@
-# FunProject
- Solves a specifc scrambled type of Manga page
+# Descrambler
+ Simple Python program the descrambles a manga page obtained from inspect element on websites such as pocket shonen magazine
