@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db62c716-7ab5-4ad9-b036-e4bd119c15a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/audiens.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audiens2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.py" afterDir="false" />
-    </list>
+    <list default="true" id="db62c716-7ab5-4ad9-b036-e4bd119c15a0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1644291081539</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated page naming method by using a variable to hold the page's name for simpler usage.">
+      <created>1737537811971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737537811971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated page naming method by using a variable to hold the page's name for simpler usage." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated page naming method by using a variable to hold the page's name for simpler usage." />
   </component>
 </project>
